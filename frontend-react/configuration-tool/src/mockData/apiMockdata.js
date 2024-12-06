@@ -4,7 +4,7 @@ export default [
         startTime: '8:45am',
         endTime: '7:45pm',
         startDay: 'Special Hours',
-        endday: null
+        endDay: null
     },
     {
         type: 'regular',
